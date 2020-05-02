@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565860634 source:d:\c.s\tests\c++ projects\cat's numbersrepresentation\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<math.h>
+	<sstream>
+
